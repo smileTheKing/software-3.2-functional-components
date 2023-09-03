@@ -3,15 +3,14 @@ function Movie({title, year,bgImg }) {
     <div className="movie" style={{ 
       backgroundImage: `url(${bgImg})`,
       backgroundRepeat: 'no-repeat',
-      backgroundSize: 'fill',
-      backgroundPosition:'top center'
+      backgroundSize: 'cover',
+      backgroundPosition:'center',
       
     }}>
       <div className="movieTitle">
       <p>Title: {title}</p>
       <p>Year: {year}</p>
-      </div>
-     
+      </div> 
     </div>
   );
 }
