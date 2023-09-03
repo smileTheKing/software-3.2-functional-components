@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/smileTheKing.github.io/software-3.2-functional-components/static/css/main.9513acfb.css",
+    "main.js": "/smileTheKing.github.io/software-3.2-functional-components/static/js/main.53aba487.js",
+    "static/media/post1.jpeg": "/smileTheKing.github.io/software-3.2-functional-components/static/media/post1.dca754684a377487d71c.jpeg",
+    "static/media/poster4.webp": "/smileTheKing.github.io/software-3.2-functional-components/static/media/poster4.82be2f120ee70b1b15b8.webp",
+    "static/media/post2.jpeg": "/smileTheKing.github.io/software-3.2-functional-components/static/media/post2.32c1c6dca6648a4f6a2d.jpeg",
+    "static/media/poster3.jpeg": "/smileTheKing.github.io/software-3.2-functional-components/static/media/poster3.9152787a961524c17c3f.jpeg",
+    "index.html": "/smileTheKing.github.io/software-3.2-functional-components/index.html",
+    "main.9513acfb.css.map": "/smileTheKing.github.io/software-3.2-functional-components/static/css/main.9513acfb.css.map",
+    "main.53aba487.js.map": "/smileTheKing.github.io/software-3.2-functional-components/static/js/main.53aba487.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9513acfb.css",
+    "static/js/main.53aba487.js"
+  ]
+}
